@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/complete_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/staba" >
+
+    <TextView
+        android:id="@+id/complete_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="おつかれさまでした！\nコーヒー 200円キャンペーン実施中！\nどうぞお越し下さいませ"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:background="#C0000000" />
+
+</RelativeLayout>
